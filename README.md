@@ -53,7 +53,7 @@ The project is designed to demonstrate practical backend development skills usin
 | GitHub | Source code hosting |
 
 
-
+## Project Structure
 CODSOFT_TASK1/
 │
 ├── app.py
