@@ -52,7 +52,7 @@ The project is designed to demonstrate practical backend development skills usin
 | Git | Version control |
 | GitHub | Source code hosting |
 
-## Project Structure
+
 
 CODSOFT_TASK1/
 │
